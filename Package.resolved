@@ -2,12 +2,30 @@
   "object": {
     "pins": [
       {
-        "package": "Nimble",
-        "repositoryURL": "https://github.com/Quick/Nimble.git",
+        "package": "CwlCatchException",
+        "repositoryURL": "https://github.com/iwooltd/CwlCatchException.git",
         "state": {
           "branch": null,
-          "revision": "a27c5186ce2d65f60d1237660b2509df3eb29023",
-          "version": "8.0.0"
+          "revision": "7cd2f8cacc4d22f21bc0b2309c3b18acf7957b66",
+          "version": "1.2.0"
+        }
+      },
+      {
+        "package": "CwlPreconditionTesting",
+        "repositoryURL": "https://github.com/iwooltd/CwlPreconditionTesting.git",
+        "state": {
+          "branch": null,
+          "revision": "cd71a2341d5d82f6ec7df7065f72f4bae04915f1",
+          "version": "1.2.1"
+        }
+      },
+      {
+        "package": "Nimble",
+        "repositoryURL": "https://github.com/iwooltd/Nimble.git",
+        "state": {
+          "branch": null,
+          "revision": "08fbecec87c65a726931d681388ac147ab5995a8",
+          "version": "8.0.6"
         }
       }
     ]
